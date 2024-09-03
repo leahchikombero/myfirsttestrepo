@@ -1,2 +1,4 @@
 # myfirsttestrepo
-the first attemp at using github
+the first attempt at using github
+#editing this file 
+using github
